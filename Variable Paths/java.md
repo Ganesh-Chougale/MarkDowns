@@ -25,3 +25,13 @@ Press `Win + R`, type `sysdm.cpl`, and hit Enter.
 Go to `Advance` tab.  
 choose `user` for personal & `system` for everyone  
 & apply path from there.  
+
+
+### 3. verify the changes:
+first Restart the machine & then  
+```bash
+where java
+```    
+```bash
+java --version
+```    
