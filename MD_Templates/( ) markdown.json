@@ -1,0 +1,257 @@
+{
+	"jsx literal": {
+		"prefix": "jsxWrapper",
+		"body": [
+			"```jsx\r",
+			"```  "
+		],
+		"description": "description for jsx literal"
+	},
+	"javaWrapper": {
+		"prefix": "javaWrapper",
+		"body": [
+			"```java\r",
+			"```  "
+		],
+		"description": "description for javaWrapper"
+	},
+	"jswrapper": {
+		"prefix": "jsWrapper",
+		"body": [
+			"```javascript\r",
+			"```  "
+		],
+		"description": "description for jsWrapper"
+	},
+	"gitbash": {
+		"prefix": "bashsnippet",
+		"body": [
+			"```bash\r",
+			"```  "
+		],
+		"description": "description for gitbash"
+	},
+	"typescript code snippet": {
+		"prefix": "tscodescippet",
+		"body": [
+			"```typescript\r",
+			"```  "
+		],
+		"description": "description for typescript code snippet"
+	},
+	"image insertion snippet": {
+		"prefix": "imageinsertion",
+		"body": [
+			"##### Preview:  \r",
+			"![]()  "
+		],
+		"description": "description for image insertion snippet"
+	},
+	"sql snippet": {
+		"prefix": "sqlsnippet",
+		"body": [
+			"```sql\r",
+			"\r",
+			"```  "
+		],
+		"description": "description for sql snippet"
+	},
+	"h1snippet": {
+		"prefix": "h1snippet",
+		"body": "#",
+		"description": "description for h1snippet"
+	},
+	"h2snippet": {
+		"prefix": "h2snippet",
+		"body": "##",
+		"description": "description for h1snippet"
+	},
+	"h3snippet": {
+		"prefix": "h3snippet",
+		"body": "###",
+		"description": "description for h3snippet"
+	},
+	"h4snippet": {
+		"prefix": "h4snippet",
+		"body": "####",
+		"description": "description for h3snippet"
+	},
+	"h5snippet": {
+		"prefix": "h5snippet",
+		"body": "#####",
+		"description": "description for h3snippet"
+	},
+	"h6snippet": {
+		"prefix": "h6snippet",
+		"body": "######",
+		"description": "description for h3snippet"
+	},
+	"outputsnippet": {
+		"prefix": "ooooooutputsnippet",
+		"body": [
+			"#### Output:  \r",
+			"```console\r",
+			"\r",
+			"```  "
+		],
+		"description": "description for outputsnippet"
+	},
+	"tablemdsnippet": {
+		"prefix": "tttttablemdsnippet",
+		"body": [
+			"``` bash  \r",
+			"|------------|-----|-------------|\r",
+			"| Name       | Age | City        |\r",
+			"|------------|-----|-------------|\r",
+			"| John       | 25  | New York    |\r",
+			"| Alice      | 30  | Los Angeles |\r",
+			"| Bob        | 22  | Chicago     |\r",
+			"|------------|-----|-------------|\r",
+			"```  "
+		],
+		"description": "description for tablemdsnippet"
+	},
+	"TypeScript snipet": {
+		"prefix": "tsxSnippet",
+		"body": [
+			"```tsx\r",
+			"\r",
+			"```  "
+		],
+		"description": "description for TypeScript snipet"
+	},
+	"htmlcnippet": {
+		"prefix": "htmlsnippet",
+		"body": [
+			"```html\r",
+			"\r",
+			"```  "
+		],
+		"description": "description for htmlcnippet"
+	},
+	"jsonsnippet": {
+		"prefix": "jsonsnippet",
+		"body": [
+			"```json\r",
+			"```  "
+		],
+		"description": "description for jsonsnippet"
+	},
+	"Link Insertion": {
+		"prefix": "UrlLinkInsertion",
+		"body": "[****]()  ",
+		"description": "description for Link Insertion"
+	},
+	"twocolumns": {
+		"prefix": "twocolumns",
+		"body": [
+			"<Table>\r",
+			"<Tr>\r",
+			"<Td>\r",
+			"\r",
+			"</Td>\r",
+			"<span></span>\r",
+			"<Td>\r",
+			"\r",
+			"</Td>\r",
+			"</Tr>\r",
+			"</Table>"
+		],
+		"description": "description for twocolumns"
+	},
+	"xmlsnippet": {
+		"prefix": "xxxxxxxml",
+		"body": [
+			"```xml\r",
+			"\r",
+			"```  "
+		],
+		"description": "description for xmlsnippet"
+	},
+	"pythonsnippet": {
+		"prefix": "pythonsnippet",
+		"body": [
+			"```python\r",
+			"```  "
+		],
+		"description": "description for pythonsnippet"
+	},
+	"yamlsnippet": {
+		"prefix": "yamlsnippet",
+		"body": [
+			"```yaml\r",
+			"```  "
+		],
+		"description": "yamlsnippet"
+	},
+	"csharpsnippet": {
+		"prefix": "csharpsnippet",
+		"body": [
+			"```C#\r",
+			"\r",
+			"```  "
+		],
+		"description": "csharpsnippet"
+	},
+	"cppsnippet": {
+		"prefix": "cccccccc",
+		"body": [
+			"```cpp\r",
+			"\r",
+			"```  "
+		],
+		"description": "cppsnippet"
+	},
+	"hrl": {
+		"prefix": "hrl",
+		"body": "---",
+		"description": "hrl"
+	},
+	"eg": {
+		"prefix": "eg",
+		"body": "### **E.g:**  ",
+		"description": "eg"
+	},
+	"terminalMarkdown": {
+		"prefix": "terminalMarkdown",
+		"body": [
+			"#### Terminal:  \r",
+			"```bash\r",
+			"```  "
+		],
+		"description": "terminalMarkdown"
+	},
+	"directorypushdpdp": {
+		"prefix": "directoryPushDPDP",
+		"body": "-----> ",
+		"description": "directoryPushDPDP"
+	},
+	"shebang": {
+		"prefix": "shebang",
+		"body": "#!/bin/bash",
+		"description": "shebang"
+	},
+	"typescriptsnippet": {
+		"prefix": "typescriptsnippet",
+		"body": [
+			"```typescript\r",
+			"```    "
+		],
+		"description": "typescriptsnippet"
+	},
+	"special highlighting character": {
+		"prefix": "special highlighting character",
+		"body": "🔄",
+		"description": "special highlighting character"
+	},
+	"mermaidsnippet": {
+		"prefix": "mermaidsnippet",
+		"body": [
+			"```mermaid\r",
+			"\r",
+			"```  "
+		],
+		"description": "mermaidsnippet"
+	}
+
+}
